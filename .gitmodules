@@ -1,0 +1,3 @@
+[submodule "colored.js"]
+	path = colored.js
+	url = https://github.com/chrislloyd/colored.js.git
